@@ -16,7 +16,7 @@ Beat-Player는 본인의 자바 프로그래밍 능력 향상을 위한 개발 �
 
 이 게임의 목표는 정확한 타이밍에 키를 눌러 높은 점수를 획득하는 것입니다.
 
-Javazoom 외부 라이브러리를 사용했습니다.
+Javazoom 외부 라이브러리를 사용했습니다. (Beat-Player/src/jar/jlayer1.0.1)
 
 # 플레이 영상
 
@@ -29,13 +29,13 @@ Javazoom 외부 라이브러리를 사용했습니다.
 
 *이클립스 (또는 다른 Java IDE)
 
-*Java JDK/JRE (저는 JDK 18.0.1.1을 사용했습니다.
+*Java JDK/JRE (저는 JDK 18.0.1.1을 사용했습니다.)
 
-*Javazoom 외부 라이브러리 (파일 같이 올려드리겠습니다.)
+*Javazoom 외부 라이브러리 (Beat-Player/src/jar/jlayer1.0.1)
 
 *Clone 또는 다운로드: https://github.com/jiyongman/Beat-Player.git
 
-필요사항을 다 갖췄으면 실행하시면 됩니다
+필요사항을 다 갖췄으면 실행하시면 됩니다.
 
 
 # 특징
