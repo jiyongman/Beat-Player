@@ -7,6 +7,9 @@ public class KeyListener extends KeyAdapter {
 	
 	@Override
 	public void keyPressed(KeyEvent e) {
+		// e.getKeyCode는 사용자가 누르는 키
+		// KeyEvent.VK_ 는 컴퓨터가 갖는 키
+		// static으로 설정된 game이 null 값을 갖는다면 return해서 키보드 이벤트가 실행되지 않도록 한다
 		if(BeatPlayer.game == null) {
 			return;
 		}
