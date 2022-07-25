@@ -17,6 +17,8 @@ Beat-Player는 본인의 자바 프로그래밍 능력 향상을 위한 개발 �
 
 # 플레이 영상
 
+![Beat-Player gif](https://user-images.githubusercontent.com/87258054/180762802-79813746-a085-40d3-82a7-3ad7dab5ad57.gif)
+
 
 # 프로젝트 실행 방법
 
